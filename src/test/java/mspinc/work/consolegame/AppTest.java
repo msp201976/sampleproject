@@ -1,4 +1,4 @@
-package mukundwork.consolegame;
+package mspinc.work.consolegame;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

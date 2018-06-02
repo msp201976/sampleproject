@@ -1,4 +1,4 @@
-package mukundwork.consolegame;
+package mspinc.work.consolegame;
 
 import java.util.Scanner;
 
